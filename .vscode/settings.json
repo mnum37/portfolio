@@ -1,0 +1,21 @@
+{
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/.nuxt/*/**": true
+  },
+  "files.watcherExclude": {
+    "**/.nuxt/*/**": true
+  },
+  "search.exclude": {
+    "**/.nuxt/*/**": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "vue"
+  ],
+  "javascript.format.enable": true,
+  "editor.formatOnSave": true
+}
